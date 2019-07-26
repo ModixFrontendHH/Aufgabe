@@ -11,4 +11,4 @@ sudo npm install -g gulp-cli
 ```
 npm install
 ```
-4. Run 'gulp' with default task to open you local server. SCSS compiler and the reference to the CSS file is already done for you.
+4. Run ```gulp``` with default task to open your local server. SCSS compiler and the reference to the CSS file is already done for you.
