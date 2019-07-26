@@ -1,4 +1,4 @@
-#Setup the project
+# Setup the project
 
 We assume that you have already npm and node installed.
 
