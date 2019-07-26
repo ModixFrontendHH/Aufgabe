@@ -1,14 +1,13 @@
-# Setup the project
+# Setup the project #
 
 We assume that you have already npm and node installed.
 
-1. Install gulp globally on your machine 
-```
-sudo npm install -g gulp-cli
-```
-2. Open your terminal an switch to the project folder 
-3. Install necessary node modules 
-```
-npm install
-```
-4. Run ```gulp``` with default task to open your local server. SCSS compiler and the reference to the CSS file is already done for you.
+* Install gulp globally on your machine ```sudo npm install -g gulp-cli```
+* Open your terminal an switch to the project folder 
+* Install necessary node modules ```npm install```
+* Run ```gulp``` with default task to open your local server and development evironment. 
+
+SCSS compiler and the reference to the CSS file in the index.hmlt is already done for you. If you change the scss, you browser will automatically update.
+
+
+
